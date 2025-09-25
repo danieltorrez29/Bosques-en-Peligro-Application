@@ -1,0 +1,18 @@
+<app-header></app-header>
+
+<div class="login-container">
+  <div class="login-form">
+    <form (submit)="login()">
+      <label for="user">Usuario:</label><br>
+      <input type="text" id="user" name="user" [(ngModel)]="username"><br>
+      <label for="pass">Contraseña:</label><br>
+      <input type="password" id="pass" name="pass" [(ngModel)]="password"><br>
+      <input type="submit" value="ENTRAR">
+    </form>
+  </div>
+  <div class="forgot-password">
+    <a href="#">Olvidé la contraseña</a>
+  </div>
+</div>
+
+<app-footer></app-footer>

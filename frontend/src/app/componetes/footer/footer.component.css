@@ -1,0 +1,41 @@
+/* Estilos adicionales para centrar verticalmente el contenido si es necesario */
+.footer {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer h3 {
+  color: #468b48;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.footer p {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.footer p i {
+  margin-right: 10px;
+  color: #468b48;
+}
+
+.sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.sponsor-logos img {
+  width: 100px; /* Ajusta el tamaño según sea necesario */
+  margin: 0 10px; /* Espacio entre logos */
+}
+
+
+@media (max-width: 768px) {
+  .footer h3 {
+    font-size: 20px;
+  }
+}

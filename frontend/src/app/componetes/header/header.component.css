@@ -1,0 +1,34 @@
+/* Header Custom Styles */
+.header {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+  max-width: 200px; /* Ajusta el tamaño máximo del logotipo */
+}
+
+.nav-link {
+  color: #468b48;
+  font-weight: bold;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #1bbe26;
+}
+
+.form-control {
+  width: 250px;
+}
+
+.btn-outline-success {
+  color: #468b48;
+  border-color: #468b48;
+}
+
+.btn-outline-success:hover {
+  background-color: #1bbe26;
+  border-color: #1bbe26;
+  color: white;
+}
