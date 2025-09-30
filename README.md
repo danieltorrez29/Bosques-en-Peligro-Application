@@ -333,9 +333,9 @@ server.port=${PORT:8080}
 
 Here are some representative screenshots of the application:
 
-[![Login Page](./mockups/login-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/MonteCarloArcheryGameSimulator/refs/heads/master/resources/images/snapshots/graph.png)
-[![Home Page](./mockups/home-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/MonteCarloArcheryGameSimulator/refs/heads/master/resources/images/snapshots/graph.png)
-[![Forum Page](./mockups/forum-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/MonteCarloArcheryGameSimulator/refs/heads/master/resources/images/snapshots/graph.png)
+[![Login Page](./mockups/login-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/mockups/login.PNG)
+[![Home Page](./mockups/home-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/mockups/home.PNG)
+[![Forum Page](./mockups/forum-thumb.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/mockups/forum.png)
 
 ## 👨‍💻 Authors <a name = "authors"></a>
 
