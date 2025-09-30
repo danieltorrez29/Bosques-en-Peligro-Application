@@ -10,7 +10,7 @@
 
 - [🌲 Forests at Risk Application - Bosques en Peligro App](#-forests-at-risk-application---bosques-en-peligro-app)
   - [🧐 About ](#-about-)
-    - [Key Objectives:](#key-objectives)
+    - [Key Objectives](#key-objectives)
   - [✨ Features ](#-features-)
     - [Frontend Features](#frontend-features)
     - [Backend Features](#backend-features)
@@ -45,32 +45,32 @@
 
 **Forests at Risk (Bosques en Peligro App)** is a full-stack web application designed to raise awareness about deforestation in Colombia and provide a platform for environmental data sharing and community engagement. The application serves as both an information hub and a forum for discussing environmental conservation topics.
 
-### Key Objectives:
-- 📊 **Data Visualization**: Display deforestation statistics and environmental data by region
-- 🗣️ **Community Forum**: Enable users to create discussion topics and share information
-- 📰 **News & Articles**: Share environmental news and educational content
-- 🏗️ **Project Showcase**: Highlight conservation projects and initiatives
-- 👥 **User Management**: Secure user registration and authentication system
+### Key Objectives
+- **Data Visualization**: Display deforestation statistics and environmental data by region
+- **Community Forum**: Enable users to create discussion topics and share information
+- **News & Articles**: Share environmental news and educational content
+- **Project Showcase**: Highlight conservation projects and initiatives
+- **User Management**: Secure user registration and authentication system
 
 ## ✨ Features <a name = "features"></a>
 
 ### Frontend Features
-- 🏠 **Home Page**: Interactive slider, project showcase, and about section
-- 📊 **Data Dashboard**: Deforestation statistics by region and year
-- 📰 **News Section**: Environmental articles and updates
-- 🗣️ **Discussion Forum**: User-generated topics and responses
-- 🏗️ **Projects Gallery**: Conservation initiatives and programs
-- 🔐 **User Authentication**: Registration and login system
-- 📱 **Responsive Design**: Bootstrap-based responsive UI
+- **Home Page**: Interactive slider, project showcase, and about section
+- **Data Dashboard**: Deforestation statistics by region and year
+- **News Section**: Environmental articles and updates
+- **Discussion Forum**: User-generated topics and responses
+- **Projects Gallery**: Conservation initiatives and programs
+- **User Authentication**: Registration and login system
+- **Responsive Design**: Bootstrap-based responsive UI
 
 ### Backend Features
-- 🔐 **User Management**: Registration, authentication with SHA-256 encryption
-- 🗣️ **Forum System**: Topic creation and response management
-- 📊 **Data Management**: Deforestation surface area tracking by region
-- 📰 **Content Management**: News and publication handling
-- 🏗️ **Project Management**: Conservation project information
-- 🌍 **Region Management**: Geographic region data
-- 🔒 **Secure API**: RESTful endpoints with proper error handling
+- **User Management**: Registration, authentication with SHA-256 encryption
+- **Forum System**: Topic creation and response management
+- **Data Management**: Deforestation surface area tracking by region
+- **Content Management**: News and publication handling
+- **Project Management**: Conservation project information
+- **Region Management**: Geographic region data
+- **Secure API**: RESTful endpoints with proper error handling
 
 ## 🏗️ Architecture <a name = "architecture"></a>
 
