@@ -4,29 +4,26 @@
   A comprehensive web application for monitoring deforestation, sharing environmental information, and fostering community engagement around forest conservation in Colombia.
 </p>
 
-## 📝 Table of Contents
+---
 
-- About (#about)
-- Features (#features)
-- Architecture (#architecture)
-- Getting Started (#getting_started)
-    - Prerequisites
-    - Installation (#installation)
-- Usage (#usage)
-- API Documentation (#api)
-- Built With (#built_with)
-- Project Structure (#structure)
-- Deployment
-    - Backend Deployment
-    - Frontend Deployment
-    - Docker Deployment (Optional)
-- Configuration
-    - Environment Variables
-    - MongoDB Setup
-- Future Enhancements
-- Snapshots
-- Authors (#authors)
-- License
+<h2 align="left">Index</h2>
+
+- [About](#about)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Getting Started](#getting_started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api)
+- [Built With](#built_with)
+- [Project Structure](#structure)
+- [Deployment](#deployment)
+- [Configuration](#configuration)
+- [Future Enhancements](#future-enhancements)
+- [Snapshots](#snapshots)
+- [Authors](#authors)
+- [License](#license)
 
 ## 🧐 About <a name = "about"></a>
 
