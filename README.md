@@ -76,28 +76,7 @@
 
 The application follows a modern full-stack architecture:
 
-```
-┌─────────────────┐    HTTP/REST API    ┌─────────────────┐
-│   Angular 17    │ ◄─────────────────► │  Spring Boot    │
-│   Frontend      │                     │   Backend       │
-│                 │                     │                 │
-│ • Components    │                     │ • Controllers   │
-│ • Services      │                     │ • Services      │
-│ • Routing       │                     │ • Repositories  │
-│ • Bootstrap UI  │                     │ • Models        │
-└─────────────────┘                     └─────────────────┘
-                                                │
-                                                │ MongoDB
-                                                ▼
-                                        ┌─────────────────┐
-                                        │   MongoDB       │
-                                        │   Database      │
-                                        │                 │
-                                        │ • Collections   │
-                                        │ • Documents     │
-                                        │ • Cloud Atlas   │
-                                        └─────────────────┘
-```
+[![Architecture Diagram](./docs/architecture-diagram.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/mockups/login.PNG)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
