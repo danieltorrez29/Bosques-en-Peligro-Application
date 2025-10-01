@@ -76,7 +76,7 @@
 
 The application follows a modern full-stack architecture:
 
-[![Architecture Diagram](./docs/architecture-diagram.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/mockups/login.PNG)
+[![Architecture Diagram](./docs/architecture-diagram.png)](https://raw.githubusercontent.com/danieltorrez29/Bosques-en-Peligro-Application/refs/heads/master/docs/architecture-diagram.png)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
